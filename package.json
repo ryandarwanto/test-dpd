@@ -1,0 +1,11 @@
+{
+  "name": "test-dpd",
+  "subdomain": "ryandarwanto-test-dpd",
+  "scripts": {
+    "start": ""
+  },
+  "version": "0.0.0",
+  "engines": {
+    "node": "0.8.x"
+  }
+}
